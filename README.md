@@ -1,18 +1,33 @@
-## Getting Started
+# Proyecto Java - Clase Product
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descripción del proyecto
 
-## Folder Structure
+Este proyecto es una aplicación básica en Java orientada a objetos que representa productos mediante una clase llamada `Product`.
 
-The workspace contains two folders by default, where:
+El programa permite:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Crear productos usando constructores.
+- Modificar atributos con métodos setters.
+- Obtener información mediante getters.
+- Mostrar los datos del producto usando el método `toString()`.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Propósito
 
-## Dependency Management
+El propósito de este proyecto es practicar conceptos fundamentales de Programación Orientada a Objetos (POO) en Java, tales como:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Clases y objetos
+- Encapsulamiento
+- Constructores
+- Métodos getters y setters
+- Sobrescritura del método `toString()`
+
+---
+
+## Estructura del proyecto
+
+```text
+/App2.java
+/Product.java
+/README.md
